@@ -2,6 +2,7 @@
 
 Receive for `{RUBOTY_NAME} text`
 
+
 ## Usage
 
 ```ruby
