@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Through ruboty name.}
   spec.description   = %q{Through ruboty name.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/osyo-manga/gem-ruboty-through_ruboty_name"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
