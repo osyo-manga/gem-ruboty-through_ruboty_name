@@ -11,5 +11,5 @@ gem 'ruboty-through_ruboty_name'
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ruboty-through_ruboty_name.
+Bug reports and pull requests are welcome on GitHub at https://github.com/osyo-manga/gem-ruboty-through_ruboty_name.
 
